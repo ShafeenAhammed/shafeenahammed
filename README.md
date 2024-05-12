@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ShafeenAhammed/shafeenahammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Jithin S P! 👋
+### Hi there, I'm Shafeen Ahammed D 👋
 
 ## About Me
-I'm a passionate Java Spring Boot developer with proficiency in building scalable microservices architectures using technologies like Spring Boot, Spring Security, and Spring Cloud. I also have experience in containerization with Docker, orchestration with Kubernetes, and event streaming with Kafka. Additionally, I'm well-versed in AWS services and have strong front-end skills in Angular, JavaScript, TypeScript, HTML, and CSS.
+Passionate and self-taught web developer with hands-on experience in building robust web applications using MongoDB, Angular, Express.js and Node.js. Thrives on solving complex problems and turning ideas into innovative digital solutions. As continues to grow in the career, stays up-to-date with emerging trends and technologies in web development.
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
@@ -89,9 +88,9 @@ I'm a passionate Java Spring Boot developer with proficiency in building scalabl
 --->
 
 ## Current Focus
-I'm currently focusing on enhancing my skills in java spring boot. I'm currently working on a project for managing an institution.
+I'm currently focusing on enhancing my skills in MEAN stack development.
 
 ## 📫 How to Reach Me
-[LinkedIn](www.linkedin.com/in/jithin-sp) | [E-mail](jithinsp001@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/shafeen-ahammed-d-b85428210/) | [E-mail](ahammedshafeen10@gmail.com) 
 
 Let's connect and collaborate on exciting projects!
