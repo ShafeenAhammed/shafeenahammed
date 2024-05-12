@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Shafeen 👋
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />, I'm Shafeen!
 
 ## About Me
 I am a Passionate and self-taught web developer with hands-on experience in building robust web applications using MongoDB, Angular, Express.js and Node.js. I thrive on solving complex problems and turning ideas into innovative digital solutions. As I journey through this ever-evolving realm of web development, I'm always on the lookout for the latest trends and tech twists.
