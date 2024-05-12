@@ -57,13 +57,13 @@ I am a Passionate and self-taught web developer with hands-on experience in buil
   
 ### Others  
 <div align="center"> 
-  <img height="32" width="32" src="https://cdn.simpleicons.org/socketdotio/white" title="Socket.io" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/socketdotio/gray" title="Socket.io" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/webrtc/royalblue" title="WebRTC" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/yellow" title="Amazon AWS" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud/blue" title="Google Cloud Platform" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git/red" title="Git" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/postman/orange" title="Postman" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/figma/white" title="Figma" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/figma/silver" title="Figma" />
 </div>
 
 </td></tr></table>
