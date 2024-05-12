@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Shafeen Ahammed D 👋
+### Hi there, I'm Shafeen 👋
 
 ## About Me
-Passionate and self-taught web developer with hands-on experience in building robust web applications using MongoDB, Angular, Express.js and Node.js. Thrives on solving complex problems and turning ideas into innovative digital solutions. As continues to grow in the career, stays up-to-date with emerging trends and technologies in web development.
+I am a Passionate and self-taught web developer with hands-on experience in building robust web applications using MongoDB, Angular, Express.js and Node.js. I thrive on solving complex problems and turning ideas into innovative digital solutions. As I journey through this ever-evolving realm of web development, I'm always on the lookout for the latest trends and tech twists.
 
 
 ## My Skill Set  
@@ -78,4 +78,4 @@ I'm currently focusing on enhancing my skills in MEAN stack development.
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/blue" title="LinkedIn" />](https://www.linkedin.com/in/shafeen-ahammed-d-b85428210/) [<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/red" title="Gmail" />](ahammedshafeen10@gmail.com) 
 
 <!--- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shafeenahammed&show_icons=true&theme=gotham" alt="shafeenahammed" /> --->
-
+Let's build something awesome together! 💻🚀
